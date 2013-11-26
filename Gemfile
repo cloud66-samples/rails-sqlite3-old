@@ -8,6 +8,8 @@ gem 'actionpack-page_caching'
 # Use mysql2 as the database for Active Record
 gem 'sqlite3'
 
+gem 'unicorn'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
