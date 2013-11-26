@@ -4,7 +4,7 @@ This repository uses the following database, which should <i>not</i> be changed.
 <table>
   <tr>
     <td><b>Database</b></td>
-    <td>MySQL</td>
+    <td>SQLite3</td>
   </tr>
 </table>
 
