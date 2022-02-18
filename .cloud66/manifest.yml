@@ -1,5 +1,7 @@
 development:
     rails: 
+        configuration:
+            node_version: "10"
         server: 
             extra_packages: 
                 - atop
@@ -7,6 +9,8 @@ development:
                 
 staging:
     rails: 
+        configuration:
+            node_version: "10"
         server: 
             extra_packages: 
                 - atop
@@ -14,6 +18,8 @@ staging:
                 
 production:
     rails: 
+        configuration:
+            node_version: "10"
         server: 
             extra_packages: 
                 - atop
